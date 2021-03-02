@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: rgb(61, 60, 60);
+}
+canvas {
+  display: block;
+  border: 5px solid rgb(0, 255, 191);
+  margin-right:auto;
+  margin-left:auto;
+  margin-top: 100px;
+}
